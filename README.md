@@ -17,8 +17,8 @@ You can check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/Paseo2D_1000pasos.jpg?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/Paseo3D_1000pasos.jpg?raw=true)
 ![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/PaseoHexagonal_10000pasos.jpg?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/PaseoTriang_10000pasos.jpg?raw=true)
 ![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/PaseoSaltos2D_100pasos_alpha0.5.jpg?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/Paseo3D_1000pasos.jpg?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/PaseoTriang_10000pasos.jpg?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Random-Walks/blob/main/figures/Paseo2D_1000pasos.jpg?raw=true)
