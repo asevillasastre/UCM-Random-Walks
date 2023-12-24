@@ -1,8 +1,7 @@
 # Random walks in differents dimensions and recurrence study
 
 ### Abstract
-This is the report of a final project for the subject Technomathematics Workshop taught by [https://gomezcastro.xyz/](David Gomez Castro) at the Complutense University of Madrid. Algorithms for the simulation
-of random walks on different infinite graphs are proposed. After that, it is proposed the study of its recurrence.
+This is the report of a final project for the subject Technomathematics Workshop taught by [David Gomez Castro](https://gomezcastro.xyz/) at the Complutense University of Madrid. Algorithms for the simulation of random walks on different infinite graphs are proposed. After that, it is proposed the study of its recurrence.
 
 ### Content
 - Read the full project [here](https://github.com/asevillasastre/UCM-Random-Walks/tree/main/final_report.pdf).
