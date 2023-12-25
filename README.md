@@ -1,7 +1,7 @@
 # Random Walks over Inifinite Graphs in Different Dimensions and Recurrence Study seen as Markov Chains
 
 ### Abstract
-This is the report of a final project for the subject Technomathematics Workshop taught by [David Gomez Castro](https://gomezcastro.xyz/) at the Complutense University of Madrid. Algorithms for the simulation of random walks on different infinite graphs are proposed and after that the study of its recurrence.
+This is the report of a final project for the subject Technomathematics Workshop taught by [David Gomez Castro](https://gomezcastro.xyz/) at the Complutense University of Madrid. Algorithms for the simulation of random walks on different infinite graphs are proposed and after that, the study of its recurrence.
 
 ### Content
 - Read the full project [here](https://github.com/asevillasastre/UCM-Random-Walks/tree/main/final_report.pdf).
