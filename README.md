@@ -5,7 +5,7 @@ This is the report of a final project for the subject Technomathematics Workshop
 
 ### Content
 - Read the full project [here](https://github.com/asevillasastre/UCM-Random-Walks/tree/main/final_report.pdf).
-- You cand find here all [code used](https://github.com/asevillasastre/UCM-Random-Walks/tree/main/src).
+- You cand find here [all the code used](https://github.com/asevillasastre/UCM-Random-Walks/tree/main/src).
 - There are also some [cool plots](https://github.com/asevillasastre/UCM-Random-Walks/tree/main/figures).
 
 ### Author
